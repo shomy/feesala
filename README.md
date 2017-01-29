@@ -1,5 +1,9 @@
 # README
 
+
+swiftのコード発信用ファイル
+この電卓は同業界の方にとってはすごく便利です。
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
